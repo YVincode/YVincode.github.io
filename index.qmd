@@ -1,0 +1,15 @@
+---
+title: "Hello!"
+---
+# Welcome to Vincent Yi's Portfolio!
+
+Hello! My name is **Vincent Yi**, and this website is designed to help you to know more about me - backgrounds, skills, and experiences. If you have any questions or would like to get in touch, please feel free ro contact me directly!
+
+Thank you!
+
+Vincent Yi
+
+![sea from https://www.pexels.com/photo/seaside-994605/](img/sea.jpg)
+
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.

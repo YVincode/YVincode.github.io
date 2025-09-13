@@ -1,0 +1,5 @@
+---
+title: "About"
+---
+
+This website is created in the UBC'S DSCI521 course. It will be updated continuouly when the time is available.

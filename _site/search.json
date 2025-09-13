@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This website is created in the UBC’S DSCI521 course. It will be updated continuouly when the time is available."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hello!",
+    "section": "",
+    "text": "Welcome to Vincent Yi’s Portfolio!\nHello! My name is Vincent Yi, and this website is designed to help you to know more about me - backgrounds, skills, and experiences. If you have any questions or would like to get in touch, please feel free ro contact me directly!\nThank you!\nVincent Yi\n\n\n\nsea from https://www.pexels.com/photo/seaside-994605/\n\n\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "Education",
+    "section": "",
+    "text": "Master of Data Science candidate 2025 - Current University of British Columbia\n\n\n\nUBC From: https://www.sauder.ubc.ca/news/school-news/ubc-maintains-top-spot-macleans-magazines-rankings-canadas-best-university"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Vincent Yi's Portfolio",
+    "section": "",
+    "text": "Email: yickvincent@gmail.com Phone: Ask in your email."
+  }
+]
